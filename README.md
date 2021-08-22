@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jez</h1>
 <h3 align="center">Welsh Developer</h3>
 
-- 🔭 I’m currently working on [Minimal](https://github.com/JezWalmsley/minimal)
+- 🔭 I’m currently working on iOSTweaks
 
 - 🌱 I’m currently learning **Tweak Development**
 
