@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jez</h1>
-<h3 align="center">Welsh Developer</h3>
 
 - 🔭 I’m currently working on iOSTweaks
 
